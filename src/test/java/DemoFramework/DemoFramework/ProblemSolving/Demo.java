@@ -21,6 +21,7 @@ public class Demo {
 		}
 	}
 	
+	
 //	1.	WAP to print “Hello World” by MWC. 
 	public static void helloWorld() {
 		System.out.println("Hello World");
